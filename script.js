@@ -49,7 +49,7 @@ const questions = [
   },
   {
     badge: "Question finale",
-    title: "Alors Rania… acceptes-tu de me laisser te reconquérir doucement, te faire passer une magnifique journée jeudi, et rallumer avec moi tout ce qu’on a de beau ?",
+    title: "Alors Baby… acceptes-tu de me laisser te reconquérir doucement, te faire passer une magnifique journée jeudi, et rallumer avec moi tout ce qu’on a de beau ?",
     text: "Cette fois, choisis avec ton joli cœur.",
     yes: "Oui, j’accepte mon amour 💍",
     no: "Je m’enfuis 😭",
